@@ -1,0 +1,41 @@
+#Cale{
+  margin-right:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fuente{font-size: 68%;}
+#fuente-Titulo{
+  letter-spacing: -.01em;
+ font-size: 1.7em;
+  font-weight: 600;
+  line-height: 1.4em;
+  margin: 0;
+  padding: 8px 0 0 4px;}
+
+  #fuente-Titulo2{
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 1.4em;
+  margin: 0;
+  padding: 8px 0 0 4px;}
+
+  #opciones{font-size: 73%;
+    padding-left:.3% ;
+  margin-right: -2.6%;
+  line-height: 1.4em;
+}
+
+#cabezera{
+  margin-top:-0.3% ;
+}
+#consultorio{
+  margin-top: .3%;
+  margin-left: -2.6%;
+
+}
+#blanco{color: #FFFFFF;}
+#nolinea{
+  text-decoration:none;
+}
